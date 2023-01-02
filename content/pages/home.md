@@ -1,5 +1,5 @@
 ---
-title: Welcome to the plant docs!
+title: Houseplant Wiki
 date: Last Modified
 permalink: /
 eleventyNavigation:
@@ -7,11 +7,8 @@ eleventyNavigation:
   order: 0
   title: Home
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
+You have successfully launched your spacebook. If you are new here, you may want to[read the d](https://spacebook.app/) for tips and tricks on setting up your project.
 
-![Hello, world](/content/images/hello.jpg)
+![Hello, world](/static/img/pxl_20220405_131554187.jpg)
 
-->*Onward...*<-
-
-
-
+\-*O*<-
