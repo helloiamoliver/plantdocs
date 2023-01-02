@@ -1,9 +1,9 @@
 ---
 title: Hello, world.
-date: Last Modified 
+date: Last Modified
 permalink: /
 eleventyNavigation:
-  key: Hello 
+  key: Hello!
   order: 0
   title: Hello, world.
 ---
