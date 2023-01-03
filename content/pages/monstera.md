@@ -1,7 +1,7 @@
 ---
 title: Monstera
 date: Last Modified
-permalink: /monstera
+permalink: /monstera/index.html
 eleventyNavigation:
   key: monstera
   order: 0
