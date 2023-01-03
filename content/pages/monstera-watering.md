@@ -8,8 +8,11 @@ eleventyNavigation:
   order: 0
   title: Watering
 ---
-Welcome to the Houseplant Wiki!  
-Helpful information and plant care tips will be stored on here.
+**Water every 1-2 weeks, allowing soil to dry out between waterings. **
 
-![Hello, world](/content/images/pxl_20220405_131554187.jpg)
+Expect to water more often in brighter light and less often in lower light. 
+
+> **Pro tip:**  
+> Monsteras can benefit from filtered water or water left out overnight before using.
+
 
