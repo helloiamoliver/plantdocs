@@ -1,10 +1,12 @@
 ---
 title: Monstera
-date: 2023-01-03T14:58:29.164Z
+date: Last Modified
 permalink: monstera
 eleventyNavigation:
-  order: 100
-  title: Monstera
   key: monstera
+  order: 0
+  title: Monstera
 ---
-M﻿onstera
+Monstera
+
+This is a helpful document regarding Monstera care!
