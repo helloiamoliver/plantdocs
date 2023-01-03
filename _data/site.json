@@ -6,7 +6,7 @@
   "url": "https://plantdocs.helloiamoliver.co.uk/",
   "githubUrl": "https://github.com/ormhewitt/plantdocs",
   "githubBranch": "main",
-  "navigationStyle": "horizontal",
+  "navigationStyle": "vertical",
   "emoji": "🪴",
   "enableSearch": true,
   "enableDarkMode": true,
