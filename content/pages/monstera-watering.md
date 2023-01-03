@@ -6,7 +6,7 @@ eleventyNavigation:
   key: monstera-watering
   parent: monstera
   order: 0
-  title: Monstera watering
+  title: Watering
 ---
 Welcome to the Houseplant Wiki!  
 Helpful information and plant care tips will be stored on here.
