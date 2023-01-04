@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
   title: Watering
 ---
-**Water every 1-2 weeks, allowing soil to dry out between waterings. **
+**Water every 1-2 weeks, allowing soil to dry out between waterings.**  
 
 Expect to water more often in brighter light and less often in lower light. 
 
