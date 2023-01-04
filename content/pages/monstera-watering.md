@@ -9,10 +9,21 @@ eleventyNavigation:
   title: Watering
 ---
 **Water every 1-2 weeks, allowing soil to dry out between waterings.**  
+Expect to water more often in brighter light and less often in lower light.  
 
-Expect to water more often in brighter light and less often in lower light. 
+#### Autumn & Winter
+Keep soil barely moist - water once every three weeks.
+Do not feed plant.
+
+#### Spring & Summer
+Water every 1-2 weeks, allowing soil to dry out between waterings.
+Feed plant once a month.
 
 > **Pro tip:**  
 > Monsteras can benefit from filtered water or water left out overnight before using.
 
+## Drainage
+
+Use a pot with drainage holes to prevent soggy potting mix. 
+Yellow leaves are usually a sign of overwatering. 
 
