@@ -1,5 +1,5 @@
 ---
-title: Monstera
+title: Monstera Adansonii
 date: Last Modified
 permalink: /monstera/index.html
 eleventyNavigation:
